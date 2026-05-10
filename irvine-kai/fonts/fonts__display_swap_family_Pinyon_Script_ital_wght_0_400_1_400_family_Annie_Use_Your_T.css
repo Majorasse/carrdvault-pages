@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'Annie Use Your Telescope';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/annieuseyourtelescope/v20/daaLSS4tI2qYYl3Jq9s_Hu74xwktnlKxH6osGVGjlA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Pinyon Script';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/pinyonscript/v24/6xKpdSJbL9-e9LuoeQiDRQR8aOI.ttf) format('truetype');
+}
